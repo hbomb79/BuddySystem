@@ -1,0 +1,15 @@
+ Volume in drive C is BOOTCAMP
+ Volume Serial Number is 0246-9FF7
+
+ Directory of C:\CORE\Massey_Papers\159342_2021\assignments\A1\A1-START-UP\A1-START-UP_Windows10_compatible
+
+24/03/2021  03:59 PM    <DIR>          .
+24/03/2021  03:59 PM    <DIR>          ..
+24/08/2016  11:20 AM                18 clean.bat
+10/08/2016  11:31 PM               176 makefile
+19/03/2020  04:07 PM            13,239 server.cpp
+24/03/2021  03:59 PM           295,842 server.exe
+24/03/2021  03:59 PM             6,872 server.o
+24/03/2021  04:00 PM                 0 tmp.txt
+               6 File(s)        316,147 bytes
+               2 Dir(s)  95,466,258,432 bytes free
